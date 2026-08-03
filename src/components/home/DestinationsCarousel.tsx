@@ -8,37 +8,37 @@ const destinations = [
     id: 1,
     name: 'Bangkok',
     country: 'Thailand',
-    image: 'https://images.unsplash.com/photo-1508009603885-247a592d37c8?q=80&w=2143&auto=format&fit=crop',
+    image: '/images/bangkok_temple.png',
   },
   {
     id: 2,
     name: 'Dubai',
     country: 'UAE',
-    image: 'https://images.unsplash.com/photo-1512453979798-5ea266f8880c?q=80&w=2070&auto=format&fit=crop',
+    image: '/images/dubai_skyline.png',
   },
   {
     id: 3,
     name: 'Ha Long Bay',
     country: 'Vietnam',
-    image: 'https://images.unsplash.com/photo-1528127269322-539801943592?q=80&w=2070&auto=format&fit=crop',
+    image: '/images/vietnam_golden_bridge.png',
   },
   {
     id: 4,
     name: 'Bali',
     country: 'Indonesia',
-    image: 'https://images.unsplash.com/photo-1537996194471-e657df975ab4?q=80&w=2038&auto=format&fit=crop',
+    image: '/images/bali_beach.png',
   },
   {
     id: 5,
     name: 'Kashmir',
     country: 'India',
-    image: 'https://images.unsplash.com/photo-1621217315181-ee862419ec6b?q=80&w=2071&auto=format&fit=crop',
+    image: '/images/kashmir_valley.png',
   },
   {
     id: 6,
     name: 'Shimla',
     country: 'India',
-    image: 'https://images.unsplash.com/photo-1595815771614-ade9d6527656?q=80&w=2070&auto=format&fit=crop',
+    image: '/images/shimla_snow.png',
   }
 ]
 

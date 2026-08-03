@@ -7,7 +7,7 @@ export default function NewsletterContact() {
       {/* Background Image with Parallax effect feeling */}
       <div className="absolute inset-0 z-0">
         <img 
-          src="https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?q=80&w=2070&auto=format&fit=crop" 
+          src="/images/travel_newsletter_bg.png" 
           alt="Beautiful Landscape" 
           className="w-full h-full object-cover object-center"
         />

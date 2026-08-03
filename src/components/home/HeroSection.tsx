@@ -61,17 +61,17 @@ export default function HeroSection() {
             >
               {/* Main Large Image (Left) */}
               <div className="absolute top-10 left-0 w-[55%] h-[70%] rounded-[2rem] overflow-hidden shadow-2xl border-4 border-white z-20">
-                <img src="https://images.unsplash.com/photo-1512453979798-5ea266f8880c?q=80&w=2070&auto=format&fit=crop" alt="Dubai" className="w-full h-full object-cover" />
+                <img src="/images/dubai_skyline.png" alt="Dubai" className="w-full h-full object-cover" />
               </div>
               
               {/* Top Right Image */}
               <div className="absolute top-0 right-0 w-[40%] h-[40%] rounded-[2rem] overflow-hidden shadow-xl border-4 border-white z-10">
-                <img src="https://images.unsplash.com/photo-1528181304800-259b08848526?q=80&w=2070&auto=format&fit=crop" alt="Thailand" className="w-full h-full object-cover" />
+                <img src="/images/bangkok_temple.png" alt="Thailand" className="w-full h-full object-cover" />
               </div>
 
               {/* Bottom Right Image */}
               <div className="absolute bottom-12 right-[5%] w-[45%] h-[45%] rounded-[2rem] overflow-hidden shadow-xl border-4 border-white z-30">
-                <img src="https://images.unsplash.com/photo-1582672060674-bc2bd808a8b5?q=80&w=2070&auto=format&fit=crop" alt="Vietnam" className="w-full h-full object-cover" />
+                <img src="/images/vietnam_golden_bridge.png" alt="Vietnam" className="w-full h-full object-cover" />
               </div>
             </motion.div>
           </div>
