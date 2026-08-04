@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { motion } from 'framer-motion'
-import { MapPin, Calendar, Plane, ArrowUpDown } from 'lucide-react'
+import { MapPin, Plane, ArrowUpDown } from 'lucide-react'
 
 export default function HeroSection() {
   const [tripType, setTripType] = useState('One Way')
