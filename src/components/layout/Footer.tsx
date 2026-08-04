@@ -11,7 +11,7 @@ export default function Footer() {
           <div className="space-y-6">
             <Link to="/" className="inline-block">
               <span className="text-2xl font-heading font-bold tracking-wider text-white">
-                SAFAR <span className="text-luxury-gold">TRAVELS</span>
+                SAFAR TRAVELS <span className="text-luxury-gold">ONLINE</span>
               </span>
             </Link>
             <p className="text-sm leading-relaxed text-gray-400">

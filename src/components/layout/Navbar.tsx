@@ -43,7 +43,7 @@ export default function Navbar() {
             "text-2xl font-heading font-bold tracking-wider",
             isScrolled ? "text-royal-blue" : "text-royal-blue" // Adjusted for the light bg hero
           )}>
-            SAFAR <span className="text-luxury-gold">TRAVELS</span>
+            SAFAR TRAVELS <span className="text-luxury-gold">ONLINE</span>
           </span>
         </Link>
 
