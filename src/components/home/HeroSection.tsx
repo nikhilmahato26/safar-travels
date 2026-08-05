@@ -14,7 +14,7 @@ export default function HeroSection() {
   }
 
   const handleWhatsAppBook = () => {
-    const phoneNumber = '919876543210' // Placeholder number, replace with actual
+    const phoneNumber = '917977348842'
     const message = `Hello, I would like to book a flight:%0A%0ATrip Type: ${tripType}%0AFrom: ${from}%0ATo: ${to}%0ADepart Date: ${departDate}`
     window.open(`https://wa.me/${phoneNumber}?text=${message}`, '_blank')
   }
